@@ -9,7 +9,9 @@ vvs:
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   # 자기 소개
   about: 
-    저는 Java 웹 개발자로 취업을 준비중입니다.
+    If you cannot fly then run.
+    If you cannot run, then walk.
+    And, If you cannot walk, then crawl, but whatever you do, you have to keep moyving forward.
 
   # This photo will be used in the about section
   picture:
