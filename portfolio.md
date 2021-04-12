@@ -15,7 +15,7 @@ font-weight:bold">
 </span>
 </center>
 
-<center>MAJOR : Information Systems Engineering(정보시스템공학과)</center>
+<center>MAJOR : Information Systems Engineering</center>
 
 <center>Sungshin Women's University</center>
 
@@ -23,44 +23,38 @@ font-weight:bold">
 
 ## Personal Data
 ---
-> 1995.11.4 대한민국,서울특별시,동작구 출생
+> 1997.09.15 
 
-> 연락처: khw11044@gmail.com
+> 연락처: jungjewon38@gmail.com
 
-> Github : <a href="https://github.com/khw11044">https://github.com/khw11044</a>
+> Github : <a href="https://github.com/jjwon915">https://github.com/jjwon915</a>
 
 
 ## Education
 ---
-> Mar.2015 ~ Feb.2021 한성대학교
+> Mar.2016 ~ Aug.2021 
 >
-> IT 융합공학부 (DIVISION OF IT CONVERGENCE ENGINEERING)
-
-> Feb.2021 ~ 현재 : 고려대학교
->
-> 인공지능 대학원 (이성한 교수님 연구실)
+> 성신여자대학교 정보시스템공학과
 
 
-## Research Interest
+## Skill and Certification
 ---
+- Programming Language : Java, Python, C/C++, HTML, CSS, Javascript
 
-* Computer Vision
-    + image Object Detection
-    + Vot
-    + Semantic/Instance Segmentation
-    + Super Resolution
+- FrameWork: Spring, Springboot, Bootstrap
 
-* Machine Learning / Deep Learning
-    + GAN
-    + Few-Shot Learning
-    + Meta Learning
+- Server : MySQL, Apache Tomcat
+
+- Certification : 정보처리기사, SQLD
+
 
 ## Project
 ---
 
-* **Visual Object Tracking Using Plenoptic Image Sequences**
+* **한이음 공모전**
 
-과학기술정보통신부-한성대 프로젝트 : 학부생 인턴
+프로젝트 주제 : 동안 피부를 위한 천연 화장품 메이커
+
 
 Lightfield 영상에서의 Siamease Network를 이용한 단일 객체 추적
 
