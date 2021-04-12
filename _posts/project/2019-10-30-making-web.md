@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '[GithubPages] 03.하루만에 깃허브 블로그 만들기'
+title: '[한글쑥쑥] 웹 어플리케이션 프로젝트'
 subtitle: 커스텀하기
 categories: project
 tags: githubpage
@@ -8,4 +8,3 @@ comments: true
 published: true
 ---
 
-ff
