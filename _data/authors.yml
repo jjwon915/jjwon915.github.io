@@ -9,9 +9,10 @@ vvs:
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   # 자기 소개
   about: 
-    If you cannot fly then run.
-    If you cannot run, then walk.
-    And, If you cannot walk, then crawl, but whatever you do, you have to keep moyving forward.
+    Our greatest weakness lies in giving up.<br />
+    The most certain way to succeed is always to try just one more time.<br />
+    -Thomas Edison-
+
 
   # This photo will be used in the about section
   picture:
