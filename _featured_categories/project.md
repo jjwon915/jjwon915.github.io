@@ -4,7 +4,6 @@ title: Project
 slug: project
 menu: true
 submenu: false
-order: 3
+order: 5
 description: >
-  인공지능 프로젝트
 ---
