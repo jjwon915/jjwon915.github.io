@@ -54,7 +54,7 @@ font-weight:bold">
 > **한이음 공모전**
 - 프로젝트 주제 : **동안 피부를 위한 천연 화장품 메이커**
 - 개발 기간 : 2020.04 ~ 2020.11
-- 팀원 : 4명
+- 팀원 : 5명
 - 사용 Skill : Python
 - 나의 역할 : HW 담당
 	- 라즈베리파이를 이용한 피부진단기기 및 화장품 제조 기기 개발
@@ -95,51 +95,39 @@ font-weight:bold">
 - 패스트캠퍼스의 강의를 참고해 진행.
 - JPA와 Lombok을 사용해 데이터베이스를 객체로 생성해 관리하는 방법 구현.
 
+
 **Eclipse 전자정부 프레임워크**
 - 프로젝트 주제 : Diary 개발
 - 2021.04 - ing
 
+
 ## Awards
 ---
+<a herf="https://www.youtube.com/watch?v=1H0McBZBfTU"><u><strong>한이음 공모전</strong></u></a>
+- 라즈베리파이를 이용한 피부 진단 기기 개발 및 사용자 맞춤형 화장품 제조 시스템 개발
+- 2020 성신여자대학교 SW 경진대회에서 발전된 형태.
+- 은상 수상
 
-<u><strong><a href="https://www.youtube.com/watch?v=-ofj2vTvH0Q/">**The 15th HANSUNG Engineering Competitive Exhibition[PM] 2019 </a></strong></u>
+<u><strong>2020년 온라인 추계학술발표대회 학부생 논문경진대회</strong></u>
+- 라즈베리파이를 이용한 피부 진단 기기 개발 및 사용자 맞춤형 화장품 제조 시스템 논문 작성
+- 은상 수상
+  
 
-- BRONZE PRIZE, SPONSOR PRIZE
-
-<u><strong><a href="https://www.youtube.com/watch?v=5rFu7Kv_DfY&t=362s">**HANSUNG UNIVERSICY C&C FESTIVAL[PM] 2020</a></strong></u>
-
-- BRONZE PRIZE
-
-
-<a herf="https://www.youtube.com/watch?v=Mn9Dx5xukcg&t=10s"><u><strong>**The 16th HANSUNG Engineering Competitive Exhibition[PM] 2020</strong></u></a>
-
-- SILVER PRIZE , - BRONZE PRIZE
-
-<a herf="https://www.youtube.com/watch?v=ah9MZQ0PjMI&t=60s"><u><strong>2020년 공개SW 개발자 대회(주최:과학기술정보통신부, 주관:정보통신산업진흥원) [PM] 2020</strong></u></a>
-
-<a herf="https://blog.naver.com/khw11044/222152408161">BRONZE PRIZE</a>
-
-## Work Experiences
----
--2020. 07 – 2020. 11 Visual Object Tracking Using Plenoptic Image Sequences, 
-
-Hansung Univ – ETRI
-
-<a herf="https://github.com/khw11044/PlenOpticVot_Siamfc_2020">https://github.com/khw11044/PlenOpticVot_Siamfc_2020</a>
+<u><strong>2020 성신여자대학교 SW 경진대회</strong></u>
+- 화장품 제조 시스템 개발
+- 은상 수상
 
 
-## Skills and Certification
----
--Language : Python, C/C++
+<u><strong>2019 성신여자대학교 SW 경진대회</strong></u>
+- 안드로이드 어플리케이션(약 복용 관리 어플)
+- 장려상 수상
 
--FrameWork: Pytorch, Tensorflow(Keras)
 
--Certification : CCNA, Internet of Things Knowledge Certification
 
 ## Patents
 ---
-【발명의 영문명칭】: Image-based anti-drone detection device and metohd using deep learning model
+【발명의 명칭】: 화장품 제조 시스템 및 이의 제어 방법{THE COSMETIC PRODUCING APPARATUS AND CONTROLLING METHOD OF THE SAME}
 
-【출원번호】: 10-2020-0080646
+【출원번호】: 10-2020-0179016
 
-【출원인】: 김현우, 김태현, 제진명
+【출원인】: 유새연 김하경 윤주혜 이지현 정제원
