@@ -3,6 +3,7 @@ layout: about
 title: Portfolio
 menu: true
 order: 1
+published: true
 ---
 
 * * *
@@ -10,15 +11,15 @@ order: 1
 <span style=
 "font-size:170%;
 font-weight:bold">
-김현우
+정제원
 </span>
 </center>
 
-<center>MAJOR : AI EENGINEERING</center>
+<center>MAJOR : Information Systems Engineering(정보시스템공학과)</center>
 
-<center>Korean University</center>
+<center>Sungshin Women's University</center>
 
-<center>145, Anam-ro, Seongbuk-gu, Seoul, Republic of Korea</center>
+<center>Donam Sujung Campus: 2, 34 da-gil, Bomun-ro, Seongbuk-gu, Seoul</center>
 
 ## Personal Data
 ---
@@ -119,7 +120,3 @@ Hansung Univ – ETRI
 【출원번호】: 10-2020-0080646
 
 【출원인】: 김현우, 김태현, 제진명
-
-
-
-
